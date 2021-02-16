@@ -1,8 +1,8 @@
 import React from 'react'
-import logo from './logo.svg';
+import logo from '../logo.svg';
 import './POPOSSpace.css';
 import { Link } from 'react-router-dom';
-import data from './sfpopos-data.json'
+import data from '../sfpopos-data.json'
 
 function POPOSSpace(props) {
     // this is the equivalent of defining props.name etc.
